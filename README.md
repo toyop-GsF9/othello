@@ -1,3 +1,16 @@
+## 概要
+オセロゲームです。２つ立ち上げたら対戦できます（できてませんが。。。）
+## 操作方法
+対戦ボタンを押すとスタートします。
+あとはクリックで石を置けます。
+## 工夫した点
+reactでアプリを作ってみたかったので挑戦！
+撃沈。
+ほぼ写経です。
+## 苦労した点
+いままでと作り方が全然違ったので、作り方を理解するまでに時間がかかった。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
